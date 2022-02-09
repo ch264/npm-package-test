@@ -2,7 +2,7 @@ Removes all spaces from a string.
 
 ## Install
 
-```
+```js
 $ npm install @ch264/tiny
 ```
 

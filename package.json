@@ -15,5 +15,9 @@
   ],
   "dependencies": {
     "np": "^7.6.0"
+  },
+  "scripts": {
+    "np": "np",
+    "test": "echo \"No test specified\""
   }
 }
