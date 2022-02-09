@@ -1,0 +1,19 @@
+{
+  "name": "@ch264/tiny",
+  "version": "2.1.3",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "ch264/tiny",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "react",
+    "components"
+  ],
+  "dependencies": {
+    "np": "^7.6.0"
+  }
+}
